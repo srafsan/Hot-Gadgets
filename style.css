@@ -1,0 +1,27 @@
+.container{
+    margin-bottom: 50px;
+}
+.carousel-item{
+    padding: 20px 60px;
+}
+h6{
+    color: gray;
+}
+.bg-light-orange{
+    background-color: #fceae8;
+    border: 10px;
+}
+.see-all{
+    margin-left: 90%;
+    color: orange;
+}
+.custom-width{
+    width: 10%;
+    float: left;
+}
+#catagories{
+    margin-bottom: 20px;
+}
+.card-title{
+    font-weight: bold;
+}
